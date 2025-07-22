@@ -11,8 +11,8 @@
 
 #define WIFI_SSID "Tselhome-628B"
 #define WIFI_PASSWORD "60712528"
-#define API_KEY "AIzaSyDj92aIh1zniGW5Ps8S7uGswz8pxTw7LO4"
-#define DATABASE_URL "weweather1-c9385-default-rtdb.asia-southeast1.firebasedatabase.app"
+#define API_KEY ""
+#define DATABASE_URL ""
 
 #define TRIG_PIN 19
 #define ECHO_PIN 18

@@ -11,8 +11,8 @@
 
 #define WIFI_SSID "Tselhome-AFB5"  //"Tselhome-AFB5" / BBWSCITARUM@CIPAL1 /cipalorbit
 #define WIFI_PASSWORD "71096346" //cipalsatu atau 71096346 / admin123456
-#define API_KEY "AIzaSyDj92aIh1zniGW5Ps8S7uGswz8pxTw7LO4"
-#define DATABASE_URL "weweather1-c9385-default-rtdb.asia-southeast1.firebasedatabase.app"
+#define API_KEY ""
+#define DATABASE_URL ""
 
 //#define TRIG_PIN 19
 //#define ECHO_PIN 18
